@@ -16,7 +16,7 @@
   OS: Arch Linux
   Languages: ["Python", "Bash"]
   Interests: ["CyberSecurity", "Linux", "FOSS"]  
-  Uptime: 17 Years
+  Uptime: 18 Years
   ```
 </div>
 
