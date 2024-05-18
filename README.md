@@ -1,7 +1,7 @@
 
 
 ```css
-┌[pingu0b@git]-(~)
+┌[pingu@git]-(~)
 └> mefetch
 ```
  
@@ -10,7 +10,7 @@
 
   
   ```css
-  pingu0b@GitHub
+  pingu@GitHub
   -----------------
   Name: Pingu
   OS: Arch Linux
