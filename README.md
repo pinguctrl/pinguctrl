@@ -14,7 +14,7 @@
   -----------------
   Name: Pingu
   OS: Arch Linux
-  Languages: ["Python", "Bash"]
+  Languages: ["C", "Python", "Bash"]
   Interests: ["CyberSecurity", "Linux", "FOSS"]  
   Uptime: 18 Years
   ```
