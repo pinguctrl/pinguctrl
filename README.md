@@ -26,8 +26,7 @@
 <p align="center">
   <samp>
     $  
-    <!--<a href="https://twitter.com/pingu0b" target="_blank">twitter</a> .-->
-    <a href="https://discordapp.com/users/1093499955437637633" target="_blank">discord</a> .
-    <a href="https://www.linkedin.com/in/pragathiswaarak/" target="_blank">linkedin</a> .$
+    <a href="https://twitter.com/pinguxxor" target="_blank">twitter</a> .
+    <a href="https://discordapp.com/users/1093499955437637633" target="_blank">discord</a> $
   </samp>
 </p>
